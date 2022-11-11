@@ -1,0 +1,22 @@
+enable  : true
+title   : Team that makes the difference.
+members  :
+  - image       : images/team/team-member-two.jpg
+    name        : Vaishnavi Diwan
+    designation : Front End Designer/ Digital Designer
+
+  - image       : images/team/team-member-one.jpg
+    name        : Akshit Garg
+    designation : Backend Coder/ Social Media Manager
+
+  - image       : images/team/team-member-three.jpg
+    name        : Tushar Chaudhary
+    designation : Content Writer
+
+  - image       : images/team/team-member-four.jpg
+    name        : Vikrant Rana
+    designation : Video/ Photo Editor
+
+  - image       : images/team/team-member-five.jpg
+    name        : Sharad Sakale
+    designation : Digital Marketer

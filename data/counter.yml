@@ -1,0 +1,14 @@
+enable : true
+heading : "THE PROOF IS IN THE PUDDING!"
+counter_item: 
+  - title: "Volunteers"
+    number: "300"
+
+  - title: "Projects Completed"
+    number: "60"
+
+  - title: "Happy Faces"
+    number: "35k"
+
+  - title: "Fund Raised"
+    number: "45 Lacs"
